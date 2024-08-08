@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.8"
+  },
+  "dependencies": {
+    "@ethersproject/hdnode": "^5.7.0",
+    "@ethersproject/providers": "^5.7.2",
+    "@ethersproject/signing-key": "^5.7.0"
+  }
+}
